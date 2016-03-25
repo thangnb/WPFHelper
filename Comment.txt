@@ -1,0 +1,2 @@
+1.Refference khong can thiet chua xoa het(System.Xml, System.Xml.Linq)
+2. ReadForm: Line68-70: Kiem tra co thua comment nao khong ma giua comment co mot line trang nhu vay => Thua thi xoa di, neu khong de chung dong
